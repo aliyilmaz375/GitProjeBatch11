@@ -9,6 +9,8 @@ public class BirinciGun {
 		System.out.println("10:26 ikinci gun");
 		System.out.println("10:35 ikinci gun");
 		System.out.println("10:26 - feature branch");
+		System.out.println("10:46 - feature branch");
+		
 		
 		
 		
